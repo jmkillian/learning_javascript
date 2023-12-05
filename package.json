@@ -1,0 +1,12 @@
+{
+  "name": "learning_javascript",
+  "version": "1.0.0",
+  "description": "Reviewing and updating my JavaScript skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
