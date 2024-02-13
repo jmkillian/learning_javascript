@@ -27,5 +27,3 @@ console.log(mySecondCat.age)
 // Call the meow method with your class
 myFirstCat.meow()
 mySecondCat.meow()
-
-myFirstCat.scratch(4)
